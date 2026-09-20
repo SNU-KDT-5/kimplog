@@ -32866,15 +32866,28 @@
   },
   {
     "date": "2026-09-19",
-    "usdt_price": 1372.0,
+    "usdt_price": 1365.0,
     "fx_rate": 1388.1,
-    "premium_pct": -1.16,
-    "volume": 24346048.379,
-    "value": 33422002407.06,
-    "btc_premium_pct": -1.12,
-    "btc_krw_price": 111309000.0,
-    "foreignUsd": 81096.69,
+    "premium_pct": -1.66,
+    "volume": 77469529.0002,
+    "value": 106083198834.79,
+    "btc_premium_pct": -1.64,
+    "btc_krw_price": 110917000.0,
+    "foreignUsd": 81235.14,
     "foreignSource": "Bitstamp",
-    "btc_krw_low": 110639000.0
+    "btc_krw_low": 110501000.0
+  },
+  {
+    "date": "2026-09-20",
+    "usdt_price": 1366.0,
+    "fx_rate": 1388.1,
+    "premium_pct": -1.59,
+    "volume": 15253473.3824,
+    "value": 20823504977.02,
+    "btc_premium_pct": -1.6,
+    "btc_krw_price": 109857000.0,
+    "foreignUsd": 80426.69,
+    "foreignSource": "Bitstamp",
+    "btc_krw_low": 109268000.0
   }
 ]
